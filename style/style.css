@@ -30,16 +30,16 @@ text-align: left;
 margin: 20px;
 }
 nav .nav-btn{
-border: 1px solid rgb(13, 19, 33);
+border:1px solid rgb(13, 19, 33);
 border-radius: 8px;
 opacity: 0.8;
 margin-top: 20px;
 }
 .nav-btn button{
     color: rgb(13, 19, 33);
+    border-radius: 8px;
     border: none;
-    margin: 0px 10px;
-    padding: 17px 24px 17px 24px;
+    padding: 15px 22px 15px 22px;
 font-size: 20px;
 font-weight: 600;
 text-align: center;
@@ -102,7 +102,7 @@ cursor: pointer;
 /* ques-ans section start */
 .ques-ans{
     max-width: 1140px;
-height: 1395px;
+height: 1350px;
 background-color: rgba(13, 19, 33, 0.02);
 margin: 0 auto;
 margin-bottom: 88px;
@@ -191,3 +191,45 @@ margin: 0 0 0 98px;
     margin: 0 48px 31px 0;
 }
 /* ques-ans section end */
+
+/* inspiration section start */
+.inspiration{
+    max-width: 1140px;
+    height: 775px;
+    margin: 0 auto;
+    margin-bottom: 150px;
+}
+.inspiration-title{
+    width: 852px;
+    height: 113px;
+margin: 0 auto;
+text-align: center;
+}
+.inspiration-title h1{
+    color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+margin-bottom: 24px;
+}
+.inspiration-title p{
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+margin-bottom: 48px;
+}
+.inspiration-video{
+    width: 1140px;
+height: 614px;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+margin-top: 48px;
+}
+.inspiration-video iframe{
+    width: 1076px;
+height: 550px;
+border-radius: 16px;
+margin: 32px;
+}
+/* inspiration section start */
+
