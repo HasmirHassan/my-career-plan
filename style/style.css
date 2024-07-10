@@ -399,3 +399,56 @@ margin: 15px 24px 15px 0;
 
 /* next-target section end */
 
+/* support section start */
+.support{
+    width: 1140px;
+height: 313px;
+margin: 0 auto;
+margin-bottom: 80px;
+border-radius: 16px;
+background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url(../assets/handshake.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+border: 2px solid black;
+}
+.support-content{
+    width: 1044px;
+height: 185px;
+margin: 64px 40px;
+}
+.support-content h1{
+    color: rgb(255, 255, 255);
+font-size: 32px;
+font-weight: 700;
+margin-bottom: 16px;
+text-align: center;
+}
+.support-content p{
+    color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 39px;
+text-align: center;
+}
+.support-content .feedback{
+    width: 548px;
+height: 57px;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+color: rgba(13, 19, 33, 0.4);
+font-size: 16px;
+padding-left: 20px;
+margin-left: 180px;
+}
+.support-content .btn{
+    border-radius: 8px;
+background: rgb(255, 255, 255);
+padding: 17px 24px 17px 24px;
+color:rgb(13, 19, 33);
+font-size: 20px;
+text-align: center;
+}
+/* support section end */
+
