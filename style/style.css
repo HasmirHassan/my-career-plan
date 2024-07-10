@@ -179,6 +179,7 @@ line-height: 23px;
 text-align: center;
 border: 1px solid rgb(13, 19, 33);
 opacity: 0.7;
+cursor: pointer;
 }
 .my-ambition-img{
     width: 259.56px;
@@ -232,4 +233,97 @@ border-radius: 16px;
 margin: 32px;
 }
 /* inspiration section start */
+
+/* current-target section start */
+.current-target{
+    width: 1140px;
+height: 460px;
+margin: 0 auto;
+margin-bottom: 110px;
+}
+.current-target-title{
+    width: 946px;
+height: 113px;
+margin: 0 auto;
+text-align: center;
+}
+.current-target-title h1{
+    color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+margin-bottom: 24px;
+}
+.current-target-title p{
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+margin: 0 10px;
+}
+.current-target-learning{
+    width: 1140px;
+height: 299px;
+margin-top: 48px;
+display: flex;
+gap: 20px;
+}
+.current-target-learning h1{
+    color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+text-align: left;
+    margin: 24px 0px 8px 0px;
+}
+.current-target-learning p{
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin-bottom: 24px;
+opacity: 0.7;
+}
+.current-target-learning a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+
+    text-decoration-line: underline;
+}
+.current-target-learning-html{
+    width: 364px;
+height: 299px;
+border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+padding-top: 40px;
+}
+.current-target-learning-html-content{
+    width: 284px;
+height: 219px;
+margin: 0 auto;
+}
+.current-target-learning-css{
+    width: 364px;
+height: 299px;
+border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+padding-top: 40px;
+}
+.current-target-learning-css-content{
+    width: 284px;
+height: 219px;
+margin: 0 auto;
+}
+.current-target-learning-js{
+    width: 364px;
+height: 299px;
+border-radius: 16px;
+background: rgba(255, 223, 0, 0.05);
+padding-top: 40px;
+}
+.current-target-learning-js-content{
+    width: 284px;
+height: 219px;
+margin: 0 auto;
+}
+/* current-target section end */
 
